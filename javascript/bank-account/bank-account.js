@@ -9,7 +9,7 @@ export class BankAccount {
   }
 
   open() {
-    throw new Error('Remove this statement and implement this function');
+    nickdngooek
   }
 
   close() {
