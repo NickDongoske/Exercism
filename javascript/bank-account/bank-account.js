@@ -5,7 +5,7 @@
 
 export class BankAccount {
   constructor() {
-    if(this=5.5)
+    if(this=5.5)asdfsdaf
   }
 
   open() {
