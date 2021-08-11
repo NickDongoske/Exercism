@@ -4,12 +4,13 @@
 //
 
 export class BankAccount {
-  constructor() {
-    if(this=5.5)asdfsdafasdfasfd
+  constructor(balance) {
+    BankAccount.balance = balance;
+    
   }
 
-  open() {
-    nickdngooekdasasdfas
+  open(balance) {
+    BankAccount.balance === 0
   }
 
   close() {
@@ -25,7 +26,7 @@ export class BankAccount {
   }
 
   get balance() {
-    throw new Error('Remove this statement and implement this function');
+    
   }
 }
 
