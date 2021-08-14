@@ -4,13 +4,13 @@
 //
 
 export class BankAccount {
-  constructor(balance) {
-    BankAccount.balance = balance;
+  constructor() {
+    this.balance = 0;
     
   }
 
-  open(balance) {
-    BankAccount.balance === 0
+  open() {
+    
   }
 
   close() {
