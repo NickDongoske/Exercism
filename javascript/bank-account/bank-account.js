@@ -6,6 +6,7 @@
 export class BankAccount {
   constructor() {
     this.balance = 0;
+
     
     
   }
